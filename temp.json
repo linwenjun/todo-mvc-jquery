@@ -1,27 +1,163 @@
 [
-  {
-    "name": "Spring Cloud Security",
-    "size": 1000,
-    "imports": [
-      "Scalability",
-      "Multi-Tenancy"
-    ]
-  },
-  {
-    "name": "Spring Cloud Config Server",
-    "size": 1000,
-    "imports": [
-      "Scalability"
-    ]
-  },
-  {
-    "name": "Scalability",
-    "size": 1,
-    "imports": []
-  },
-  {
-    "name": "Multi-Tenancy",
-    "size": 1,
-    "imports": []
-  }
+    {
+        "name": "",
+        "imports": [],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Security",
+        "imports": [
+            "Configurability",
+            "Availability",
+            "Security",
+            "Integration"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Config Server",
+        "imports": [
+            "Scalability",
+            "Multi-Tenancy",
+            "Configurability",
+            "Availability",
+            "Security",
+            "Integration",
+            "Extendability"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Zuul",
+        "imports": [
+            "Scalability",
+            "Multi-Tenancy",
+            "Configurability",
+            "Availability",
+            "Security",
+            "Integration",
+            "Extendability"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Eureka",
+        "imports": [
+            "Scalability",
+            "Multi-Tenancy",
+            "Performance",
+            "Configurability",
+            "Availability",
+            "Integration",
+            "Extendability",
+            "Auditing"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Feign",
+        "imports": [
+            "Scalability",
+            "Multi-Tenancy",
+            "Performance",
+            "Availability",
+            "Integration",
+            "Extendability"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Hystrix",
+        "imports": [
+            "Multi-Tenancy",
+            "Availability",
+            "Extendability"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Ribbon",
+        "imports": [
+            "Scalability",
+            "Multi-Tenancy",
+            "Performance",
+            "Configurability",
+            "Availability",
+            "Integration",
+            "Extendability"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Bus",
+        "imports": [
+            "Scalability",
+            "Multi-Tenancy",
+            "Performance",
+            "Availability",
+            "Integration"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Sleuth",
+        "imports": [
+            "Performance",
+            "Auditing",
+            "Monitoring"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Spring Cloud Stream",
+        "imports": [
+            "Scalability",
+            "Multi-Tenancy",
+            "Performance",
+            "Availability",
+            "Integration",
+            "Extendability"
+        ],
+        "size": 1000
+    },
+    {
+        "name": "Scalability",
+        "size": 1
+    },
+    {
+        "name": "Multi-Tenancy",
+        "size": 1
+    },
+    {
+        "name": "Performance",
+        "size": 1
+    },
+    {
+        "name": "Configurability",
+        "size": 1
+    },
+    {
+        "name": "Availability",
+        "size": 1
+    },
+    {
+        "name": "Security",
+        "size": 1
+    },
+    {
+        "name": "Integration",
+        "size": 1
+    },
+    {
+        "name": "Extendability",
+        "size": 1
+    },
+    {
+        "name": "Auditing",
+        "size": 1
+    },
+    {
+        "name": "Monitoring",
+        "size": 1
+    }
 ]
