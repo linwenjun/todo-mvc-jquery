@@ -122,42 +122,52 @@
     },
     {
         "name": "Scalability",
-        "size": 1
+        "size": 1,
+        "imports": []
     },
     {
         "name": "Multi-Tenancy",
-        "size": 1
+        "size": 1,
+        "imports": []
     },
     {
         "name": "Performance",
-        "size": 1
+        "size": 1,
+        "imports": []
     },
     {
         "name": "Configurability",
-        "size": 1
+        "size": 1,
+        "imports": []
     },
     {
         "name": "Availability",
-        "size": 1
+        "size": 1,
+        "imports": []
     },
     {
         "name": "Security",
-        "size": 1
+        "size": 1,
+        "imports": []
     },
     {
         "name": "Integration",
-        "size": 1
+        "size": 1,
+        "imports": []
     },
     {
         "name": "Extendability",
-        "size": 1
+        "size": 1,
+        "imports": []
     },
     {
         "name": "Auditing",
-        "size": 1
+        "size": 1,
+        "imports": []
     },
     {
         "name": "Monitoring",
-        "size": 1
+        "size": 1,
+        "imports": []
     }
 ]
