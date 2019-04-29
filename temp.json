@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Spring Cloud Security",
+    "size": 1000,
+    "imports": [
+      "Scalability",
+      "Multi-Tenancy"
+    ]
+  },
+  {
+    "name": "Spring Cloud Config Server",
+    "size": 1000,
+    "imports": [
+      "Scalability"
+    ]
+  },
+  {
+    "name": "Scalability",
+    "size": 1,
+    "imports": []
+  },
+  {
+    "name": "Multi-Tenancy",
+    "size": 1,
+    "imports": []
+  }
+]
