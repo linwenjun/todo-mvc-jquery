@@ -1,10 +1,5 @@
 [
     {
-        "name": "",
-        "imports": [],
-        "size": 1000
-    },
-    {
         "name": "Spring Cloud Security",
         "imports": [
             "Configurability",
